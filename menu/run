@@ -273,7 +273,7 @@ echo -e " ${blue}│$NC$NC\033[41m             CONTACT SUPPORT / CS           $N
 echo -e " ${blue}╰════════════════════════════════════════════╯$NC"
 echo -e " ${blue}╭════════════════════════════════════════════╮$NC"
 echo -e " ${blue}│$NC WHATSAPP   $blue= ${NC} 085172250054${NC}  "
-echo -e " ${blue}│$NC TELEGRAM   $blue= ${NC} t.me/fernandairfan${NC}  "
+echo -e " ${blue}│$NC TELEGRAM   $blue= ${NC} t.me/fernandairfan1${NC}  "
 echo -e " ${blue}╰════════════════════════════════════════════╯$NC"
 echo ""
 read -n 1 -s -r -p "Press any key to back on menu"
